@@ -1,0 +1,4 @@
+interface:
+  display_name: "XHS Andy PPT"
+  short_description: "Turn Xiaohongshu references into editable PPT decks."
+  default_prompt: "Use $xhs-andy-ppt to turn reference images and a topic into an editable Xiaohongshu-style PPT deck."
